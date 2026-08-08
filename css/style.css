@@ -414,11 +414,11 @@
     /* CTA */
     .cta{padding:95px 0}
     .cta-box{
-      background:var(--dark);color:#fff;border-radius:30px;padding:55px;
+      background:#545454;color:#fff;border-radius:30px;padding:55px;
       display:flex;align-items:center;justify-content:space-between;gap:30px;
     }
     .cta-box h2{font-size:clamp(2rem,4vw,3.2rem);letter-spacing:-2px;line-height:1.05;margin-bottom:10px}
-    .cta-box p{color:#aaa;max-width:600px}
+    .cta-box p{color:#f0f0f0;max-width:600px}
 
     /* Footer */
     footer{background:#0d0d0d;color:#fff;padding:50px 0 25px}

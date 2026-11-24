@@ -621,7 +621,7 @@
 
     /* Footer */
     footer{background:#0d0d0d;color:#fff;padding:50px 0 25px}
-    .footer-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:45px}
+    .footer-grid{display:grid;grid-template-columns:1.2fr 1fr 1.4fr 1.3fr;gap:32px}
     footer .brand{margin-bottom:16px}
     footer p,footer a{color:#999;font-size:.9rem}
     footer a:hover{color:white}
